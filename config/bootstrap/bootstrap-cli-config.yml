@@ -129,7 +129,7 @@ cognite: # kwargs to pass to the CogniteClient, Environment variable format: ${E
     # AAD IdP login credentials:
     #
     idp-authentication:
-        client-id: ${BOOTSTRAP_IDP_CLIENT_ID}
+        client-id: ${BOOTSTRAP_IDP_CLIENT_ID} # comment
         secret: ${BOOTSTRAP_IDP_CLIENT_SECRET}
         scopes:
             - ${BOOTSTRAP_IDP_SCOPES}
