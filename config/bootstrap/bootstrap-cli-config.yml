@@ -14,7 +14,7 @@ bootstrap:
     # default and recommended is: true
         with-raw-capability: true
 
-    # new in v2 to configure prior (v1) hard-coded naming elements
+    # new in v2 to configure prior (v1) hard-coded naming elements comment
     # Most of the naming-configurations don't have a functional effect, but affect
     # naming of Groups, Datasets and RAWDBs only.
     # All given feature values are reflecting the default values,
