@@ -27,7 +27,7 @@ extpipe-pattern: '{source}:{short-name}:{rawtable-name}:{suffix}'
 # can contain multiple contacts, can be overwritten on pipeline level
 default-contacts:
     - name: Contact name
-      email: ana.galende@radixeng.com
+      email: ana.galende@radixeng.com #comment
       role: c
       send-notification: true
 
